@@ -1,0 +1,11 @@
+{
+  "todos": [
+    {
+      "id": "559af4d0-3627-4b0a-9273-87017b77f51e",
+      "text": "redux çalış",
+      "isdone": false,
+      "created_at": "30.03.2024",
+      "is_done": false
+    }
+  ]
+}
