@@ -68,4 +68,6 @@
     > > state yanlış güncellendi (usestate ise usestatei , contexte ise value ve provider ,reduxta dispatch,action,type ,reducer kontrol et)
     > > api doğru güncellendi
 
+    # Gif
+
     <img src="./public/redux-crud.gif"/>
